@@ -6,7 +6,7 @@ name: jd_health
 on:
   workflow_dispatch:
   schedule:
-    - cron: '15 16 * * *'
+    - cron: '10 16 1-30 12 *'
   watch:
     types: started
   repository_dispatch:
