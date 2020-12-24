@@ -52,3 +52,4 @@ jobs:
           JD_818_SHAREID_NOTIFY: ${{ secrets.JD_818_SHAREID_NOTIFY }}
           JDJOY_HELPSELF: ${{ secrets.JDJOY_HELPSELF }}
           JDJOY_APPLYJDBEAN: ${{ secrets.JDJOY_APPLYJDBEAN }}
+          JDJOY_SHARECODES: ${{ secrets.JDJOY_SHARECODES }}
