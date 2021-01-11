@@ -51,3 +51,4 @@ jobs:
           IGOT_PUSH_KEY: ${{ secrets.IGOT_PUSH_KEY }}
           JD_818_SHAREID_NOTIFY: ${{ secrets.JD_818_SHAREID_NOTIFY }}
           JXNC_SHARECODES: ${{ secrets.JXNC_SHARECODES }}
+          JXNCTOKENS: ${{ secrets.JXNCTOKENS }}
